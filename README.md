@@ -57,6 +57,7 @@ python main_0007.py --batch_size 16 --dataset 'a9a' --it_local 20 --choose_p 'ka
 ```
 
 ## Citation
+```
 @article{vrproxskip2022,
   title={Variance reduced proxskip: Algorithm, theory and application to federated learning},
   author={Malinovsky, Grigory and Yi, Kai and Richt{\'a}rik, Peter},
@@ -65,6 +66,8 @@ python main_0007.py --batch_size 16 --dataset 'a9a' --it_local 20 --choose_p 'ka
   pages={15176--15189},
   year={2022}
 }
+```
+
 
 ## Acknowledgement
 This repo contains VR-ProxSkip related implementations building on top of [opt_methods](https://github.com/konstmish/opt_methods).
