@@ -1,0 +1,4 @@
+{
+    "r.linting.maxLineLength": 80,
+    "editor.maxTokenizationLineLength": 20000000000000000
+}
